@@ -1,0 +1,24 @@
+header {
+    background-color: #172430
+}
+
+header > img {
+    width: 60px;
+}
+
+span, h4 {
+    color: white; 
+}
+
+.main-content {
+    background-color: #1D2D3C;
+}
+
+.music-card {
+    background-color: black;
+    text-align: center;
+}
+
+.music-card img {
+    width: 140px;
+}
